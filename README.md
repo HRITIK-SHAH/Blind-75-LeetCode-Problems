@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,5 +60,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
