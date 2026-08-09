@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
