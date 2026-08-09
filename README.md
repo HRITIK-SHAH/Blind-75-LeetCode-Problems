@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0198-house-robber) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0091-decode-ways) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
