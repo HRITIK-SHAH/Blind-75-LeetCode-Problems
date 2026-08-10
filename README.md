@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0091-decode-ways) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
