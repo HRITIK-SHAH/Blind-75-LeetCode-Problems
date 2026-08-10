@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -225,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
