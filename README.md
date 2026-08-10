@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0206-reverse-linked-list) |
