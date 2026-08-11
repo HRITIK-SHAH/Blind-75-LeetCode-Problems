@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Prefix Sum
 |  |
 | ------- |
