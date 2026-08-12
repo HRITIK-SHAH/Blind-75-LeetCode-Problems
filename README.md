@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0200-number-of-islands) |
@@ -263,9 +265,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
