@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -290,4 +292,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
