@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0208-implement-trie-prefix-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0091-decode-ways) |
+| [0208-implement-trie-prefix-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0647-palindromic-substrings) |
@@ -339,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HRITIK-SHAH/Blind-75-LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
